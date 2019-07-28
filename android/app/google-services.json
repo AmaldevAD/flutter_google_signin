@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "94055306397",
+    "firebase_url": "https://mapla-d958d.firebaseio.com",
+    "project_id": "mapla-d958d",
+    "storage_bucket": "mapla-d958d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:94055306397:android:257736dfb16b780d",
+        "android_client_info": {
+          "package_name": "app.mapla.com.deltalife"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "94055306397-7qla5uc0mu0maifj4o2f2o5a0dn5kce6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.mapla.com.deltalife",
+            "certificate_hash": "c4dfe44c142928ce5ee74a85f61f2550d5a28e6a"
+          }
+        },
+        {
+          "client_id": "94055306397-iclds580ctmg1ngs9u2mb1q6it63t1ug.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAbTNfYqSzKM0nFtaaxwwKKqeQmm3S5xA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "94055306397-iclds580ctmg1ngs9u2mb1q6it63t1ug.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:94055306397:android:bdcce20ded57d054",
+        "android_client_info": {
+          "package_name": "com.mapla.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "94055306397-h0gmesjdgl516kqjqkutv5jke4frpd8p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mapla.app",
+            "certificate_hash": "c4dfe44c142928ce5ee74a85f61f2550d5a28e6a"
+          }
+        },
+        {
+          "client_id": "94055306397-iclds580ctmg1ngs9u2mb1q6it63t1ug.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAbTNfYqSzKM0nFtaaxwwKKqeQmm3S5xA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "94055306397-iclds580ctmg1ngs9u2mb1q6it63t1ug.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
